@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Varadhan Elango
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python
-- - 💞️ I’m looking to collaborate on with python developers
+- 💞️ I’m looking to collaborate on with python developers
 - 📫 How to reach me +91 9047343320 or varadhancst@gmail.com
 
 <!---
